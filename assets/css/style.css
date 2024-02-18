@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}"
 
-test {
+#test {
     font-size: 100px;
 }
