@@ -3,7 +3,6 @@
 
 .student_pictures {
     display: flex;
-    background-color: white;
     justify-content: center;
   }
   
@@ -13,9 +12,8 @@
     margin-right: 50px; /* Adjust spacing between images */
   }
 
-  .student_names{
+  .student_names-wrap{
     display: inline;
-    background-color: white;
     justify-content: center;
   }
   .student_names span{
