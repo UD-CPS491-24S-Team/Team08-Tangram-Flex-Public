@@ -5,7 +5,7 @@
 
 .student_pictures {
     display: flex;
-    background-color: whitesmoke;
+    background-color: grey;
     justify-content: center;
   }
   
