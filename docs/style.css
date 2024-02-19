@@ -14,10 +14,10 @@
   }
 
   .student_names{
-    display: flex;
+    display: inline;
     background-color: white;
     justify-content: center;
   }
-  .student_names h1{
+  .student_names span{
     margin-right: 50px;
   }
