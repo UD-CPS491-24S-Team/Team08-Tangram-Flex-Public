@@ -16,6 +16,6 @@
     display: inline;
     justify-content: center;
   }
-  .student_names span{
+  .student_names{
     margin-right: 50px;
   }
