@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "jekyll-theme-slate";
-
 .student_pictures {
     display: flex;
     background-color: grey;
@@ -10,7 +8,7 @@
   }
   
   .student_pictures img {
-    width: 100px; /* Adjust the width as needed */
+    width: 300; /* Adjust the width as needed */
     height: auto; /* Maintain aspect ratio */
-    margin-right: 10px; /* Adjust spacing between images */
+    margin-right: 50px; /* Adjust spacing between images */
   }
