@@ -12,3 +12,12 @@
     height: 200px; /* Maintain aspect ratio */
     margin-right: 50px; /* Adjust spacing between images */
   }
+
+  .student_names{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+  }
+  .student_names h1{
+    margin-right: 50px;
+  }
