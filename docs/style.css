@@ -8,7 +8,7 @@
   }
   
   .student_pictures img {
-    width: 300; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Maintain aspect ratio */
     margin-right: 50px; /* Adjust spacing between images */
   }
