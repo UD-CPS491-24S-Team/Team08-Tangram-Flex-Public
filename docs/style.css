@@ -3,7 +3,7 @@
 
 .student_pictures {
     display: flex;
-    background-color: grey;
+    background-color: white;
     justify-content: center;
   }
   
