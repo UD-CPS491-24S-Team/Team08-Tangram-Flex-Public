@@ -3,6 +3,14 @@
 
 @import "jekyll-theme-slate";
 
-#test {
-    font-size: 100px;
-}
+.student_pictures {
+    display: flex;
+    background-color: white;
+    justify-content: center;
+  }
+  
+  .student_pictures img {
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px; /* Adjust spacing between images */
+  }
