@@ -1,6 +1,8 @@
-@import "{{ site.theme }}"
 ---
 ---
+
+@import "jekyll-theme-slate"
+
 #test {
     font-size: 100px;
 }
