@@ -13,7 +13,7 @@
   }
 
   .student_names-wrap{
-    display: inline;
+    display: inline-block;
   }
   .student_names{
     margin-right: 100px;
