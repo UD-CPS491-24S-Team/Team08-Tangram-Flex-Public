@@ -7,7 +7,11 @@
   }
   
   .student_pictures figure {
+
+    margin-right: 50px; /* Adjust spacing between images */
+  }
+
+  .student_pictures img{
     width: 200px; /* Adjust the width as needed */
     height: 200px; /* Maintain aspect ratio */
-    margin-right: 50px; /* Adjust spacing between images */
   }
