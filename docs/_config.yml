@@ -16,7 +16,7 @@
 title: Team08 Tangram Flex
 email: your-bishj2@udayton.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  We are team08 for the University of Dayton's 2024 CPS capstone!
+  We are team-08 for the University of Dayton's 2024 CPS capstone!
   This project focuses on working with tangrams proprietary software in order
   to see if it is well documented and usable in an academic environment
 baseurl: "/CPS491_team08" # the subpath of your site, e.g. /blog
