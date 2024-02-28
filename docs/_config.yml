@@ -20,10 +20,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   This project focuses on working with tangrams proprietary software in order
   to see if it is well documented and usable in an academic environment
 baseurl: "/CPS491_team08" # the subpath of your site, e.g. /blog
-url: "https://Jacob-bish.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ud-cps491-24s-team.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-
 # Build settings
 markdown: kramdown
 #theme: pages-themes/slate@v0.2.0
