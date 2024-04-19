@@ -13,6 +13,7 @@
 
   .student_pictures figcaption {
     text-align: center;
+    justify-content: center;
   }
   .student_pictures img{
     width: 200px; /* Adjust the width as needed */
@@ -21,7 +22,9 @@
 
   .section_headers{
     text-align: center;
+    justify-content: center;
   }
   .section_content{
     text-align: center;
+    justify-content: center;
   }
