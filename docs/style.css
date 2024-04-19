@@ -10,7 +10,9 @@
 
     margin-right: 50px; /* Adjust spacing between images */
   }
-
+  #logo{
+    justify-content: center;
+  }
   .student_pictures figcaption {
     text-align: center;
     justify-content: center;
