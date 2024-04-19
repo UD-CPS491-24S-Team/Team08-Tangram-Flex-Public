@@ -11,8 +11,7 @@
     margin-right: 50px; /* Adjust spacing between images */
   }
   #logo{
-    display: block;
-    margin: 0 auto;
+    text-align: center;
   }
   .student_pictures figcaption {
     text-align: center;
