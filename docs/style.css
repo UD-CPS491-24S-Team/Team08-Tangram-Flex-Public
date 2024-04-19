@@ -10,8 +10,9 @@
 
     margin-right: 50px; /* Adjust spacing between images */
   }
-  #logo{
-    text-align: center;
+  .tangram_logo{
+      display: block; /* Ensures the image is treated as a block-level element */
+      margin: 0 auto; /* Auto margins horizontally center the element */
   }
   .student_pictures figcaption {
     text-align: center;
